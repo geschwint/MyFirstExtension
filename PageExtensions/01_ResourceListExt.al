@@ -6,7 +6,7 @@ pageextension 123456701 ResourceListExt extends "Resource List"
         {
             Visible = ShowType;
         }
-        // Add changes to page layout here
+        // Add changes to page layout  here
         addafter(Type)
         {
             field("CSD_Resource Type"; "CSD_Resource Type") { }

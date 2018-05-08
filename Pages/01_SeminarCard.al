@@ -54,7 +54,7 @@ page 123456701 "Seminar Card"
             {
                 action("Co&mments")
                 {
-                    //RunObject = page "Seminar Comment Sheet";
+                    RunObject = page "Seminar Comment Sheet";
                     Image = Comment;
                     Promoted = true;
                     PromotedIsBig = true;

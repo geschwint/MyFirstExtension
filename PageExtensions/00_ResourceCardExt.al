@@ -6,6 +6,7 @@ pageextension 123456700 ResourceCardExt extends "Resource Card"
         addlast(General)
         {
             field("CSD_Resource Type";"CSD_Resource Type"){}
+            field("CSD_Quantity Per Day";"CSD_Quantity Per Day"){}
 
         }
         addafter("Personal Data")
